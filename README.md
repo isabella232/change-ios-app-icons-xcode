@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Change iOS App Icons Programmatically in Xcode*](https://link.springer.com/book/10.1007/%isbn%) by Tihomir Radev (Apress, 2022).
+This repository accompanies [*Change iOS App Icons Programmatically in Xcode*](https://link.springer.com/book/10.1007/978-1-4842-8598-5) by Tihomir Radev (Apress, 2022).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484285985.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
